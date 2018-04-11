@@ -1,0 +1,6 @@
+[submodule "Assets/UTF_Core"]
+	path = Assets/UTF_Core
+	url = https://github.com/Unity-Technologies/UTF_Core.git
+[submodule "Assets/UTF_Tests_SRPCoreAPI"]
+	path = Assets/UTF_Tests_SRPCoreAPI
+	url = https://github.com/Unity-Technologies/UTF_Tests_SRPCoreAPI.git
